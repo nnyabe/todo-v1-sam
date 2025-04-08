@@ -4,6 +4,7 @@ This repository contains an AWS Serverless Application Model (SAM) template (`te
 
 ## Overview
 
+
 The SAM template provisions the following AWS resource:
 
 ### DynamoDB Table: `TodoTable`
